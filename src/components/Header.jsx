@@ -5,7 +5,7 @@ function Header() {
   return (
     <header>
       <h1 className="app-title">
-        ⚡ Keepify
+        💡Keepify
       </h1>
     </header>
   );
